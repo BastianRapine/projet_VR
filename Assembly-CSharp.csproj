@@ -54,7 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Fonts\Script\scriptTexttest.cs" />
-    <Compile Include="Assets\Time.cs" />
+    <Compile Include="Assets\Timer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
