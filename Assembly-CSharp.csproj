@@ -107,6 +107,7 @@
     <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
     <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
+    <Compile Include="Assets\TeleportationManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
