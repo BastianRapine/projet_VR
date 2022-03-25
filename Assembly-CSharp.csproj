@@ -57,6 +57,7 @@
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\VignetteComponent.cs" />
@@ -68,10 +69,12 @@
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\VignetteModel.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\GrainModel.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\PostProcessingModel.cs" />
+     <Compile Include="Assets\IgniteCoders\Simple Water Shader\Info\Scripts\Readme.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\PostProcessingProfile.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\GrainComponent.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\PostProcessingContext.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\UserLutModel.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\BloomComponent.cs" />
@@ -81,6 +84,8 @@
      <Compile Include="Assets\Timer.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\UserLutComponent.cs" />
      <Compile Include="Assets\MapGenerator\MapGenEditor.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\DitheringComponent.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
@@ -89,10 +94,13 @@
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
+     <Compile Include="Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBox.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Components\FogComponent.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\BloomModel.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
      <Compile Include="Assets\TeleportationManager.cs" />

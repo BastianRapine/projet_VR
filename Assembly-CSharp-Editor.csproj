@@ -73,6 +73,8 @@
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Editor\Models\BuiltinDebugViewsEditor.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
+     <Compile Include="Assets\IgniteCoders\Simple Water Shader\Info\Scripts\Editor\ReadmeEditor.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Editor\PostProcessingModelEditor.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Editor\Models\GrainModelEditor.cs" />
      <Compile Include="Assets\LowpolySimpleHouse\PostProcessing\Editor\PostProcessingBehaviourEditor.cs" />

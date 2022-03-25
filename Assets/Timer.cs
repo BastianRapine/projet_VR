@@ -33,4 +33,9 @@ public class Timer : MonoBehaviour
 
         timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
     }
+
+    void Stop()
+    {
+        timeValue = 0;
+    }
 }
